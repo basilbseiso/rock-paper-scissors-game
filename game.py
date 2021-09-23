@@ -1,3 +1,11 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+x = os.getenv("PLAYER_NAME")
+print("Welcome", x ,"to my Rock-Paper-Scissors game...")
+
 import random
 
 
@@ -11,6 +19,13 @@ user_choice = input("Choose 'rock' or 'paper' or 'scissors': ")
 print("User chose:")
 print(user_choice)
 
+#adapted from Serena Barish example
+
+if user_choice in ["rock","paper","scissors"]:
+    print("And...")
+else:
+    print("Uh oh! Please try again and enter your choice in the correct format")
+    exit()
 # Computer choice (at random)
 
 options = ["rock", "paper", "scissors"]
@@ -36,4 +51,4 @@ else: print("It's a tie!")
 
 
 
-print("THANKS PLEASE PLAY AGAIN")
+print("Thanks for playing. Please play again!")
