@@ -10,7 +10,7 @@ A Python application for playing Rock, Paper, Scissors against the computer.
   + Python 3.7+
   + Pip
 
-## Repo Set Up and Installation
+## Repo Setup and Installation
 
 Fork this [remote repository](https://github.com/basilbseiso/rock-paper-scissors-game) under your own control, and "clone" or download your remote copy onto your local computer.
 
