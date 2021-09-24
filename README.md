@@ -1,4 +1,4 @@
-# rock-paper-scissors-game
+# Rock, Paper Scissors Exercise
 
 A Python application for playing Rock, Paper, Scissors against the computer.
 
