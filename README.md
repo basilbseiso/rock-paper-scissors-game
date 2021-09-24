@@ -1,7 +1,8 @@
 # rock-paper-scissors-game
-> NOTE: The content and instructions in this README file were referenced and adapted from Professor Rossetti's "'Rock, Paper, Scissors' Exercise" repository as well as the sample README file provided in the repository. 
 
 A Python application for playing Rock, Paper, Scissors against the computer.
+
+> NOTE: The content and instructions in this README file were referenced and adapted from Professor Rossetti's "'Rock, Paper, Scissors' Exercise" repository as well as the sample README file provided in the repository.
 
 ## Prerequisites
 
