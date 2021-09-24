@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 > NOTE: Make sure you are running this command from the repository's root directory, where the requirements.txt file exists (see the initial `cd` step above).
 
-## Setup
+## Customization
 
 In the root directory of your local repository, create a new file called ".env", and update the contents of the file to specify your player name (make sure to SAVE the ".env" file once you are finished):
 
