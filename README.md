@@ -20,15 +20,6 @@ Next, navigate there from the command line (assuming that you are running the fo
 cd rock-paper-scissors-game
 ```
 
-Use your text editor or the command-line to create a new file in that repo. Call the file "game.py", and then place the following contents inside:
-
-```sh
-# this is the "game.py" file...
-
-print("Rock, Paper, Scissors, Shoot!")
-```
-Make sure to save the file when you are done editing it. Once the virtual environment is set up, we will be able to run this file.
-
 ## Environment Setup
 > NOTE: Since we're going to be working with environment variables and requiring a third-party package to read them from the ".env" file, we need to use a new project-specific Python environment within which to install required packages. 
 
