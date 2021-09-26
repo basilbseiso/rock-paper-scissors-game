@@ -23,7 +23,7 @@ cd rock-paper-scissors-game
 ## Environment Setup
 > NOTE: Since we're going to be working with environment variables and requiring a third-party package to read them from the ".env" file, we need to use a new project-specific Python environment within which to install required packages. 
 
-Create and activate a new project-specific Anaconda virtual environment:
+Create and activate a new project-specific Anaconda virtual environment, perhaps called "my-game-env":
 
 ```sh
 conda create -n my-game-env python=3.8 # (first time only)
